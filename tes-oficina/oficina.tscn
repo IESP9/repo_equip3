@@ -1,46 +1,47 @@
-[gd_scene load_steps=50 format=3 uid="uid://r0xbwn3p4ltl"]
+[gd_scene load_steps=51 format=3 uid="uid://r0xbwn3p4ltl"]
 
 [ext_resource type="Script" path="res://oficina.gd" id="1_gv6nb"]
-[ext_resource type="Texture2D" uid="uid://1icd01jrkwqn" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/1-OFFICE.png" id="1_s34tl"]
-[ext_resource type="Texture2D" uid="uid://dfckcxvkuhnaf" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/1.png" id="3_eos2g"]
-[ext_resource type="Texture2D" uid="uid://eqrvu22vhm1y" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/2.png" id="4_3cgyo"]
-[ext_resource type="Texture2D" uid="uid://c26rq32aq8lct" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/3.png" id="5_tk1mf"]
-[ext_resource type="Texture2D" uid="uid://duepv8l3wlkpa" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/1.png" id="6_3sg0f"]
-[ext_resource type="Texture2D" uid="uid://cy2nm4y73jltr" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/2.png" id="7_4ta5s"]
-[ext_resource type="Texture2D" uid="uid://cmsd3phdxciwq" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/3.png" id="8_qoxal"]
-[ext_resource type="Texture2D" uid="uid://h01bqmruvhxq" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/4.png" id="9_yl5dj"]
-[ext_resource type="Texture2D" uid="uid://boa0da0drb3ug" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/5.png" id="10_mq7fp"]
-[ext_resource type="Texture2D" uid="uid://du1o4bkbtbi0n" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/6.png" id="11_hbmah"]
-[ext_resource type="Texture2D" uid="uid://cai2jjr3kbtxi" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/7.png" id="12_0xord"]
-[ext_resource type="Texture2D" uid="uid://bbe5raoy65su0" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/8.png" id="13_mbu6m"]
-[ext_resource type="Texture2D" uid="uid://c3xjdrld6xt3p" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/9.png" id="14_ps2h6"]
-[ext_resource type="Texture2D" uid="uid://dv8d2fl1xujng" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/10.png" id="15_mrcmw"]
-[ext_resource type="Texture2D" uid="uid://bxst37dmlu644" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/11.png" id="16_mvdma"]
-[ext_resource type="Texture2D" uid="uid://dbkukdr0ce8xr" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/12.png" id="17_xggl7"]
-[ext_resource type="Texture2D" uid="uid://xee4cvti6op4" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/13.png" id="18_s6c5f"]
-[ext_resource type="Texture2D" uid="uid://dmyog3rjvr3tw" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/14.png" id="19_i2umv"]
-[ext_resource type="Texture2D" uid="uid://dbt7elpshtmbf" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/1.png" id="20_4v4ek"]
-[ext_resource type="Texture2D" uid="uid://cqd61x71b6o1b" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/3.png" id="21_22v88"]
-[ext_resource type="Texture2D" uid="uid://leip2m6rppj8" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/4.png" id="22_pw5nb"]
-[ext_resource type="Texture2D" uid="uid://df6n08gigsile" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/5.png" id="23_0kj7c"]
-[ext_resource type="Texture2D" uid="uid://bv2stpquq4o5w" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/6.png" id="24_k807h"]
-[ext_resource type="Texture2D" uid="uid://0w44f88u041e" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/7.png" id="25_feymk"]
-[ext_resource type="Texture2D" uid="uid://dagqjmdrkbltt" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/8.png" id="26_05a8c"]
-[ext_resource type="Texture2D" uid="uid://btodr1hcdmdc" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/9.png" id="27_bg80u"]
-[ext_resource type="Texture2D" uid="uid://taqt34jimsbl" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/10.png" id="28_kape3"]
-[ext_resource type="Texture2D" uid="uid://cc21umt6gqiya" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/11.png" id="29_63iea"]
-[ext_resource type="Texture2D" uid="uid://chhqj336wiyfn" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/12.png" id="30_lwwpw"]
-[ext_resource type="Texture2D" uid="uid://dvxoptakap5u1" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/13.png" id="31_7t336"]
-[ext_resource type="Texture2D" uid="uid://ciqrwjshm1l1i" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/14.png" id="32_26jxh"]
-[ext_resource type="Texture2D" uid="uid://kp5nvnlv3gd0" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/BUTTONS/RIGHT/1-STOPPED_YES.png" id="33_b5xmp"]
-[ext_resource type="Texture2D" uid="uid://dp0tqmrol8l0w" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/BUTTONS/RIGHT/2-DOOR_YES.png" id="34_6t7ye"]
-[ext_resource type="Texture2D" uid="uid://dnwfhnmjvnkgk" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/BUTTONS/LEFT/1-STOPPED_YES.png" id="35_8sswv"]
-[ext_resource type="Texture2D" uid="uid://dqo75gla217bw" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/1.png" id="35_g7ax1"]
-[ext_resource type="Texture2D" uid="uid://bpsp5xml2vvnc" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/2.png" id="36_at5yy"]
-[ext_resource type="Texture2D" uid="uid://imb6h6suc40a" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/BUTTONS/LEFT/2-DOOR_YES.png" id="36_mmxru"]
-[ext_resource type="Texture2D" uid="uid://ctiokfab70rfw" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/3.png" id="37_xtr68"]
-[ext_resource type="Texture2D" uid="uid://qwo7ks6jpu8e" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/4.png" id="38_ij56l"]
-[ext_resource type="Texture2D" uid="uid://divy0thrqtwwg" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/5.png" id="39_1lgmn"]
+[ext_resource type="Texture2D" uid="uid://cnbfb7lrvwbvc" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/1-OFFICE.png" id="1_s34tl"]
+[ext_resource type="Texture2D" uid="uid://c8oigk8xf5ibf" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/1.png" id="3_eos2g"]
+[ext_resource type="Texture2D" uid="uid://cork3o88ir6ho" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/2.png" id="4_3cgyo"]
+[ext_resource type="Texture2D" uid="uid://rvhd23y0uajf" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/FAN/3.png" id="5_tk1mf"]
+[ext_resource type="Texture2D" uid="uid://ck6bp2ejkw0eb" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/1.png" id="6_3sg0f"]
+[ext_resource type="Texture2D" uid="uid://bl2lar0gwwb26" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/2.png" id="7_4ta5s"]
+[ext_resource type="Texture2D" uid="uid://b5brhhbm0tct2" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/3.png" id="8_qoxal"]
+[ext_resource type="Texture2D" uid="uid://dx8ykfvrcv74y" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/4.png" id="9_yl5dj"]
+[ext_resource type="Texture2D" uid="uid://bchysmwuvj1jd" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/5.png" id="10_mq7fp"]
+[ext_resource type="Texture2D" uid="uid://c44pu0gp6s381" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/6.png" id="11_hbmah"]
+[ext_resource type="Texture2D" uid="uid://ddgebc2ftt1lu" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/7.png" id="12_0xord"]
+[ext_resource type="Texture2D" uid="uid://cggwtcnooiil" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/8.png" id="13_mbu6m"]
+[ext_resource type="Texture2D" uid="uid://c8d6xiiwtfugr" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/9.png" id="14_ps2h6"]
+[ext_resource type="Texture2D" uid="uid://bvpafhjj47p28" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/10.png" id="15_mrcmw"]
+[ext_resource type="Texture2D" uid="uid://qsv8m3xeasft" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/11.png" id="16_mvdma"]
+[ext_resource type="Texture2D" uid="uid://doxidu47132ww" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/12.png" id="17_xggl7"]
+[ext_resource type="Texture2D" uid="uid://bqmfh34vihugl" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/13.png" id="18_s6c5f"]
+[ext_resource type="Texture2D" uid="uid://c1ncyvxfdyudl" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/LEFT/14.png" id="19_i2umv"]
+[ext_resource type="Texture2D" uid="uid://d22n3pmkykb1u" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/1.png" id="20_4v4ek"]
+[ext_resource type="Texture2D" uid="uid://dn8xywwqlmbqj" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/3.png" id="21_22v88"]
+[ext_resource type="Texture2D" uid="uid://dud668jssxom7" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/4.png" id="22_pw5nb"]
+[ext_resource type="Texture2D" uid="uid://d4nmlqmqs34jw" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/5.png" id="23_0kj7c"]
+[ext_resource type="Texture2D" uid="uid://b3p8etij41uv6" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/6.png" id="24_k807h"]
+[ext_resource type="Texture2D" uid="uid://blaq1vo6v5oxt" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/7.png" id="25_feymk"]
+[ext_resource type="Texture2D" uid="uid://bfu73qhlpww6f" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/8.png" id="26_05a8c"]
+[ext_resource type="Texture2D" uid="uid://bsrjy62u07r4d" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/9.png" id="27_bg80u"]
+[ext_resource type="Texture2D" uid="uid://dg0rw6uqbs4h5" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/10.png" id="28_kape3"]
+[ext_resource type="Texture2D" uid="uid://c2aajyip2gtjj" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/11.png" id="29_63iea"]
+[ext_resource type="Texture2D" uid="uid://ddr2wpm2mgtwq" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/12.png" id="30_lwwpw"]
+[ext_resource type="Texture2D" uid="uid://dx5u1woy8pchh" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/13.png" id="31_7t336"]
+[ext_resource type="Texture2D" uid="uid://bh6oxd1ad67gj" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/DOORS/RIGHT/14.png" id="32_26jxh"]
+[ext_resource type="Texture2D" uid="uid://cnnbda7fvnwgs" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/1.png" id="35_g7ax1"]
+[ext_resource type="Texture2D" uid="uid://pm4moly265jp" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/2.png" id="36_at5yy"]
+[ext_resource type="Texture2D" uid="uid://c2p0wc7on6dxw" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/3.png" id="37_xtr68"]
+[ext_resource type="PackedScene" uid="uid://dr7oow4xcfd7" path="res://control_anim.tscn" id="38_b4cdc"]
+[ext_resource type="Texture2D" uid="uid://cljbug2acb2qb" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/4.png" id="38_ij56l"]
+[ext_resource type="Texture2D" uid="uid://cf52m4xu7fj3k" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/3-THE_OFFICE/OTHER/USAGE_BAR/5.png" id="39_1lgmn"]
+[ext_resource type="PackedScene" uid="uid://b2ms1a0l72pe2" path="res://mapa.tscn" id="39_qsqfv"]
+[ext_resource type="PackedScene" uid="uid://4r0occ2i3qgs" path="res://monitor.tscn" id="40_lr0h7"]
+[ext_resource type="Texture2D" uid="uid://5mknn22o7xw3" path="res://FNAF ASSETS REORGANIZED BY ENTEREST/6-CAMERAS/0-FLIP.png" id="49_4fuqt"]
+[ext_resource type="Script" path="res://btn_camara.gd" id="50_c4l4f"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_sywnt"]
 animations = [{
@@ -174,7 +175,7 @@ animations = [{
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("33_b5xmp")
+"texture": null
 }],
 "loop": true,
 "name": &"apagado",
@@ -182,7 +183,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("34_6t7ye")
+"texture": null
 }],
 "loop": true,
 "name": &"encender",
@@ -191,6 +192,34 @@ animations = [{
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_k51n6"]
 animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("39_1lgmn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ij56l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_xtr68")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_at5yy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_g7ax1")
+}],
+"loop": false,
+"name": &"bajar",
+"speed": 1.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("35_g7ax1")
+}],
+"loop": false,
+"name": &"default",
+"speed": 1.0
+}, {
 "frames": [{
 "duration": 1.0,
 "texture": ExtResource("35_g7ax1")
@@ -208,7 +237,7 @@ animations = [{
 "texture": ExtResource("39_1lgmn")
 }],
 "loop": false,
-"name": &"default",
+"name": &"subir",
 "speed": 1.0
 }]
 
@@ -216,7 +245,7 @@ animations = [{
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("35_8sswv")
+"texture": null
 }],
 "loop": true,
 "name": &"apagado",
@@ -224,7 +253,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("36_mmxru")
+"texture": null
 }],
 "loop": true,
 "name": &"encender",
@@ -314,7 +343,8 @@ position = Vector2(107.853, -13.3042)
 rotation = -0.120428
 scale = Vector2(0.262636, 0.25)
 sprite_frames = SubResource("SpriteFrames_k51n6")
-autoplay = "default"
+animation = &"subir"
+autoplay = "subir"
 
 [node name="Izq" type="Node2D" parent="Botones"]
 
@@ -330,11 +360,41 @@ scale = Vector2(0.62466, 0.70705)
 sprite_frames = SubResource("SpriteFrames_568pg")
 animation = &"encender"
 
+[node name="Camara" type="Node2D" parent="."]
+visible = false
+
+[node name="ControlAnim" parent="Camara" instance=ExtResource("38_b4cdc")]
+visible = false
+
+[node name="monitor" parent="Camara" instance=ExtResource("40_lr0h7")]
+visible = false
+
+[node name="Mapa" parent="Camara" instance=ExtResource("39_qsqfv")]
+visible = false
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+visible = false
+
+[node name="BtnCamara" type="Button" parent="CanvasLayer"]
+anchors_preset = -1
+anchor_left = -0.255
+anchor_top = 0.338
+anchor_right = 0.273
+anchor_bottom = 0.443
+offset_left = 453.76
+offset_top = 180.976
+offset_right = 453.504
+offset_bottom = 180.936
+icon = ExtResource("49_4fuqt")
+script = ExtResource("50_c4l4f")
+
 [connection signal="mouse_entered" from="Detectores/Izq" to="." method="_on_izq_mouse_entered"]
 [connection signal="mouse_exited" from="Detectores/Izq" to="." method="_on_izq_mouse_exited"]
 [connection signal="mouse_entered" from="Detectores/Der" to="." method="_on_der_mouse_entered"]
 [connection signal="mouse_exited" from="Detectores/Der" to="." method="_on_der_mouse_exited"]
+[connection signal="animation_finished" from="Puertas/Der/AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
 [connection signal="pressed" from="Botones/Der/botonder" to="." method="_on_botonder_pressed"]
 [connection signal="tree_entered" from="Botones/Der/btnder" to="." method="_on_btnder_tree_entered"]
 [connection signal="animation_finished" from="Botones/Der/Barra electricidad/AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
 [connection signal="pressed" from="Botones/Izq/botonizq" to="." method="_on_botonizq_pressed"]
+[connection signal="mouse_entered" from="CanvasLayer/BtnCamara" to="." method="_on_btn_camara_mouse_entered"]

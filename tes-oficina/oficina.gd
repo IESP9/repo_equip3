@@ -1,10 +1,10 @@
 extends Node2D
 var Izq:bool = false
 var Der:bool = false
-var puertaDer:bool = false
-var puertaIzq:bool = false
-var barrader:bool = false
-var barraizq:bool = false
+var puertaDer:bool = true
+var puertaIzq:bool = true
+var barrader:bool = true
+var barraizq:bool = true
 
 func _ready() -> void:
 	pass # Replace with function body.
@@ -53,11 +53,11 @@ func _on_botonder_pressed() -> void:
 	if not puertaDer:
 		$Botones/Der/btnder.play("encender")
 		$Puertas/Der/AnimatedSprite2D.play("default")
-		$"Botones/Der/Barra electricidad/AnimatedSprite2D".play("default")
+		$"Botones/Der/Barra electricidad/AnimatedSprite2D".play("subir")
 		puertaDer = true
 	else:
 		$Botones/Der/btnder.play("apagado")
 		$Puertas/Der/AnimatedSprite2D.play_backwards("default")
-		$"Botones/Der/Barra electricidad/AnimatedSprite2D".play_backwards("default")
+		$"Botones/Der/Barra electricidad/AnimatedSprite2D".play_backwards("subir")
 		puertaDer = false
 	pass # Replace with function body.

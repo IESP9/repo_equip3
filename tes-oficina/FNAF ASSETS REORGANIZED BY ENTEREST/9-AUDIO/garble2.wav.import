@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cxm8q65d1erdq"
+path="res://.godot/imported/garble2.wav-63230d37997c42346d9b7ba0d63ca65e.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/garble2.wav"
+dest_files=["res://.godot/imported/garble2.wav-63230d37997c42346d9b7ba0d63ca65e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

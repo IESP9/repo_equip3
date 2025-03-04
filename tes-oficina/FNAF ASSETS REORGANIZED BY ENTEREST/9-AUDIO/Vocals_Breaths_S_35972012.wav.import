@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b5r1wu6xteyl7"
+path="res://.godot/imported/Vocals_Breaths_S_35972012.wav-b6c5577d202b927fdc01d9536d6f90b7.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/Vocals_Breaths_S_35972012.wav"
+dest_files=["res://.godot/imported/Vocals_Breaths_S_35972012.wav-b6c5577d202b927fdc01d9536d6f90b7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c0iat3a6pk3sg"
+path="res://.godot/imported/OVEN-DRA_7_GEN-HDF18121.wav-e6739d3240dc36177087524878503d80.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/OVEN-DRA_7_GEN-HDF18121.wav"
+dest_files=["res://.godot/imported/OVEN-DRA_7_GEN-HDF18121.wav-e6739d3240dc36177087524878503d80.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

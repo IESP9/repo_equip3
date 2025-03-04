@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7pc1i7ccxnqv"
+path="res://.godot/imported/SFXBible_12478.wav-38b985e88a3603232e693e2daa354360.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/SFXBible_12478.wav"
+dest_files=["res://.godot/imported/SFXBible_12478.wav-38b985e88a3603232e693e2daa354360.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

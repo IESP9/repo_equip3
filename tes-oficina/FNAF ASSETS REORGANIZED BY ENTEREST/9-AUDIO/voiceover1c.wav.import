@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dqidb440pd4ia"
+path="res://.godot/imported/voiceover1c.wav-1425a542ac6b78ef206e167e2344ec4f.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/voiceover1c.wav"
+dest_files=["res://.godot/imported/voiceover1c.wav-1425a542ac6b78ef206e167e2344ec4f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

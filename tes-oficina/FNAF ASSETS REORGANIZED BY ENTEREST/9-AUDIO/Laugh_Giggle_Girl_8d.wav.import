@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dp8g621t6sjqq"
+path="res://.godot/imported/Laugh_Giggle_Girl_8d.wav-d8b49595a9d1358540cacc6a78caddb3.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/Laugh_Giggle_Girl_8d.wav"
+dest_files=["res://.godot/imported/Laugh_Giggle_Girl_8d.wav-d8b49595a9d1358540cacc6a78caddb3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

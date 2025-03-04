@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dohhxau6ylyrg"
+path="res://.godot/imported/Buzz_Fan_Florescent2.wav-a7410e2c4dc21fa057f1e3523d0daffe.sample"
+
+[deps]
+
+source_file="res://FNAF ASSETS REORGANIZED BY ENTEREST/9-AUDIO/Buzz_Fan_Florescent2.wav"
+dest_files=["res://.godot/imported/Buzz_Fan_Florescent2.wav-a7410e2c4dc21fa057f1e3523d0daffe.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
